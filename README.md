@@ -40,4 +40,6 @@ Next, I investigate the bivarient relationships between the features, I found th
 
 Finally, I looked at how the gender, family strucure, immigration status can affect the relationship between students' academic performance and parents occupational status. It has been shown that the gender doesn't affect the so much the relationship. The family structure does affect this relationship. In the two-parents family, the regression slope is largest, then is the single-parent family. The students who don't live with their parents, their academic performance doesn't correlate with the parents occupational status.
 ## Key Insights for Presentation
-- 
+- In general, the students whose parents have higher education tends to have better academic performance in math science and reading.
+- The students' academic performances have positive correlation with the highest occupational status of the parents.
+- The family structure will influence the relationship between students' academic performance and highest occupational status of parents.
